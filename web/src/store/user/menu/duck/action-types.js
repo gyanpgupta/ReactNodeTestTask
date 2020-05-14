@@ -1,0 +1,44 @@
+
+
+
+export const USER_LOGIN = 'cms/user/USER_LOGIN'
+export const USER_LOGIN_SUCCESS = 'cms/user/USER_LOGIN_SUCCESS'
+export const USER_LOGIN_ERROR = 'cms/user/USER_LOGIN_ERROR'
+
+export const REGISTER_USER = 'cms/user/REGISTER_USER'
+export const REGISTER_USER_SUCCESS = 'cms/user/REGISTER_USER_SUCCESS'
+export const REGISTER_USER_ERROR = 'cms/user/REGISTER_USER_ERROR'
+
+export const CREATE_TICKET = 'cms/user/CREATE_TICKET'
+export const CREATE_TICKET_SUCCESS = 'cms/user/CREATE_TICKET_SUCCESS'
+export const CREATE_TICKET_ERROR = 'cms/user/CREATE_TICKET_ERROR'
+
+export const FETCH_TICKET = 'cms/user/FETCH_TICKET'
+export const FETCH_TICKET_SUCCESS = 'cms/user/FETCH_TICKET_SUCCESS'
+export const FETCH_TICKET_ERROR = 'cms/user/FETCH_TICKET_ERROR'
+
+export const UPDATE_TICKET = 'cms/user/UPDATE_TICKET'
+export const UPDATE_TICKET_SUCCESS = 'cms/user/UPDATE_TICKET_SUCCESS'
+export const UPDATE_TICKET_ERROR = 'cms/user/UPDATE_TICKET_ERROR'
+
+export const DELETE_TICKET = 'cms/user/DELETE_TICKET'
+export const DELETE_TICKET_SUCCESS = 'cms/user/DELETE_TICKET_SUCCESS'
+export const DELETE_TICKET_ERROR = 'cms/user/DELETE_TICKET_ERROR'
+
+export const FETCH_USER = 'cms/user/FETCH_USER'
+export const FETCH_USER_SUCCESS = 'cms/user/FETCH_USER_SUCCESS'
+export const FETCH_USER_ERROR = 'cms/user/FETCH_USER_ERROR'
+
+export const FETCH_USER_TICKETS = 'cms/user/FETCH_USER_TICKETS'
+export const FETCH_USER_TICKETS_SUCCESS = 'cms/user/FETCH_USER_TICKETS_SUCCESS'
+export const FETCH_USER_TICKETS_ERROR = 'cms/user/FETCH_USER_TICKETS_ERROR'
+
+export const POST_ORDER_REQUEST= 'cms/user/POST_ORDER_REQUEST'
+export const POST_ORDER_REQUEST_SUCCESS = 'cms/user/POST_ORDER_REQUEST_SUCCESS'
+export const POST_ORDER_REQUEST_ERROR = 'cms/user/POST_ORDER_REQUEST_ERROR'
+
+export const UPDATE_TICKET_ORDER = 'cms/user/UPDATE_TICKET_ORDER'
+export const UPDATE_TICKET_ORDER_SUCCESS = 'cms/user/UPDATE_TICKET_ORDER_SUCCESS'
+export const UPDATE_TICKET_ORDER_ERROR = 'cms/user/UPDATE_TICKET_ORDER_ERROR'
+
+export const INIT_PHASE= 'cms/user/INIT_PHASE'
